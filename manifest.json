@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "sandbox-gui PWA",
+  "short_name": "sandbox-gui-pwa",
   "icons": [
     {
       "src": "./icon-256.png",
@@ -20,7 +20,7 @@
     }
   ],
   "lang": "en-US",
-  "id": "/index.html",
+  "id": "/whitesandbox/index.html",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "white",
